@@ -2,7 +2,7 @@
 
 
 
-> # 도서
+> ## 도서
 
 ### 네트워크 & HTTP
 - [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931556742&orderClick=LEa&Kc=)
@@ -12,7 +12,7 @@
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
 
 
-> # 강의
+> ## 강의
 
 ### Git
 - [제대로 파는 Git & GitHub(얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
