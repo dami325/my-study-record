@@ -24,3 +24,6 @@
 ### 스프링
 - [스프링 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/373)
 - [스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/149)
+
+### Junit5
+- [ 메타코딩 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
