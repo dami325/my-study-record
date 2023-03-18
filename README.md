@@ -10,7 +10,7 @@
 ### 자바
 - [자바 프로그래밍 입문](https://product.kyobobook.co.kr/detail/S000001817902)
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
-
+- [이펙티브 자바 3/E](https://product.kyobobook.co.kr/detail/S000001033066)
 
 > ## 강의
 
