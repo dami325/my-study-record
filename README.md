@@ -33,4 +33,4 @@
 - [ 메타코딩 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
 
 ### DB
-- [갖고노는 MySQL 데이터베이스 by 얄코](https://www.inflearn.com/course/%EC%96%84%EC%BD%94-%EB%A7%88%EC%9D%B4%EC%97%90%EC%8A%A4%ED%81%90%EC%97%98/dashboard)
+- [갖고노는 MySQL 데이터베이스 by 얄코](https://www.inflearn.com/)
