@@ -18,19 +18,19 @@
 -
 
 ### Git
-- [제대로 파는 Git & GitHub(얄코)] - 인프런
-- [지옥에서 온 Git] - 인프런
+- [제대로 파는 Git & GitHub(얄코)]
+- [지옥에서 온 Git]
 
 ### IntelliJ IDEA
-- [웹 애플리케이션 개발을 위한 IntelliJ IDEA 설정] - 인프런
+- [웹 애플리케이션 개발을 위한 IntelliJ IDEA 설정]
 
 ### 스프링
-- [스프링 완전 정복 로드맵(김영한)] - 인프런
-- [스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)] - 인프런
-- [토비의 스프링 부트 - 이해와 원리(토비)] - 인프런
+- [스프링 완전 정복 로드맵(김영한)]
+- [스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)]
+- [토비의 스프링 부트 - 이해와 원리(토비)]
 
 ### Junit5
-- [ 메타코딩 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU) - 유튜브
+- [ 메타코딩 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
 
 ### DB
-- [갖고노는 MySQL 데이터베이스 by 얄코] - 인프런
+- [갖고노는 MySQL 데이터베이스 by 얄코]
