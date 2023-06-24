@@ -12,14 +12,20 @@
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
 - [이펙티브 자바 3/E](https://product.kyobobook.co.kr/detail/S000001033066)
 
+### Next.js
+- [실전에서 바로 쓰는 Next.js](https://product.kyobobook.co.kr/detail/S000200619806)
+
 > ## 강의
 
 ### 자바
 - 코딩으로 학습하는 GoF의 디자인 패턴(백기선)
 
+### 코틀린
+- 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링 - 최태현)
+
 ### Git
 - 제대로 파는 Git & GitHub(얄코)
-- 지옥에서 온 Git
+- 지옥에서 온 Git(생활코딩)
 
 ### IntelliJ IDEA
 - 웹 애플리케이션 개발을 위한 IntelliJ IDEA 설정
