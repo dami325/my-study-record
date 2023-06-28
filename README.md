@@ -34,9 +34,10 @@
 - 스프링 완전 정복 로드맵(김영한)
 - 스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)
 - 토비의 스프링 부트 - 이해와 원리(토비)
+- 스프링부트 시큐리티 & JWT 강의(최주호)
 
 ### Junit5
-- [ 메타코딩 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
+- [ 최주호 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
 
 ### DB
 - 갖고노는 MySQL 데이터베이스 by 얄코
