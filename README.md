@@ -35,6 +35,8 @@
 - 스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)
 - 토비의 스프링 부트 - 이해와 원리(토비)
 - 스프링부트 시큐리티 & JWT 강의(최주호)
+- 스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security(정수원)
+- 스프링 시큐리티 OAuth2 - Spring Boot 기반으로 개발하는 Spring Security OAuth2(정수원)
 
 ### Junit5
 - [ 최주호 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
