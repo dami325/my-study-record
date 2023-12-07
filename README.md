@@ -32,8 +32,8 @@
 - 웹 애플리케이션 개발을 위한 IntelliJ IDEA 설정
 
 ### 스프링
-- 스프링 완전 정복 로드맵(김영한)
-- 스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)
+- [스프링 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/373)
+- [스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/149)
 - 토비의 스프링 부트 - 이해와 원리(토비)
 - 스프링부트 시큐리티 & JWT 강의(최주호)
 - 스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security(정수원)
