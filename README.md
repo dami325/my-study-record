@@ -22,7 +22,7 @@
 - 이펙티브 자바 완벽 공략 1부(백기선)
 
 ### 마이크로서비스 아키텍처
-- [EDA 기반 Microservice 구현(with Hexagonal,DDD - 한정헌)](https://www.inflearn.com/course/eda%EA%B8%B0%EB%B0%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B5%AC%ED%98%84)
+- EDA 기반 Microservice 구현(with Hexagonal,DDD - 한정헌)
 
 ### 코틀린
 - 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링 - 최태현)
