@@ -4,9 +4,12 @@
 
 
 > ## 도서
-### OS
+### 운영체제
 - [혼자 공부하는 컴퓨터구조+운영체제](https://product.kyobobook.co.kr/detail/S000061584886)
 
+### 알고리즘
+- [Do it! 알고리즘 코딩 테스트: 자바 편](https://product.kyobobook.co.kr/detail/S000001818060)
+  
 ### 네트워크 & HTTP
 - [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931556742&orderClick=LEa&Kc=)
 
