@@ -24,6 +24,9 @@
 ### JPA
 - [자바 ORM 표준 JPA 프로그래밍(김영한)](https://product.kyobobook.co.kr/detail/S000000935744)
 
+### TypeScript
+- [우아한 타입스크립트 with 리액트(우아한형제들)](https://product.kyobobook.co.kr/detail/S000210716282)
+
 > ## 강의
 
 ### 자바
