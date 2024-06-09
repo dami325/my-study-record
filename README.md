@@ -1,4 +1,4 @@
-### 학습 기록
+### 학습 자료 기록
 <br>
 
 
@@ -56,12 +56,13 @@
 - [스프링부트 시큐리티 & JWT 강의(최주호)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0#curriculum)
 - [스프링 시큐리티 - Spring Boot 기반으로 개발하는 Spring Security(정수원)](https://www.inflearn.com/course/%EC%BD%94%EC%96%B4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0#curriculum)
 - [스프링 시큐리티 OAuth2 - Spring Boot 기반으로 개발하는 Spring Security OAuth2(정수원)](https://www.inflearn.com/course/%EC%A0%95%EC%88%98%EC%9B%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0#curriculum)
-
+- [스프링 배치(정수원)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98#curriculum)
 ### Junit5
 - [ 최주호 - Junit](https://www.youtube.com/watch?v=kYqGAM2culU)
 
 ### DB
 - [갖고노는 MySQL 데이터베이스 by 얄코](https://www.inflearn.com/course/%EC%96%84%EC%BD%94-%EB%A7%88%EC%9D%B4%EC%97%90%EC%8A%A4%ED%81%90%EC%97%98#curriculum)
+- [MySQL 성능 최적화(여정민)](https://www.inflearn.com/course/mysql-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94#)
 
 ### Javascript
 - [왕 초보 자바스크립트(코딩앙마)](https://www.inflearn.com/course/%EC%99%95%EC%B4%88%EB%B3%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8#curriculum)
